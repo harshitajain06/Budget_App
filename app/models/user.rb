@@ -1,7 +1,11 @@
 class User < ApplicationRecord
-    has_many :categories
-    has_many :transacs
-
+  # Include default devise modules. Others available are:
+  # :confirmable, :lockable, :timeoutable, :trackable and :omniauthable
+  devise :database_authenticatable, :registerable,
+         :recoverable, :rememberable, :validatable, :confirmable
+         has_many :categories, foreign_key: 'author_id'
+         has_many :transacs, foreign_key: 'author_id'
     validates :name, presence: true
+
   end
   
