@@ -209,6 +209,6 @@ If you like this project give a ⭐️ to repo.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/harshitajain06/Budget_App/blob/main/MIT.md) licensed.
+This project is [MIT](https://github.com/harshitajain06/Budget_App/blob/app/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
