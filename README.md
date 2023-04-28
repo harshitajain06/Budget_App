@@ -34,6 +34,7 @@ After you're finished please remove all the comments and instructions!
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
+  - [🚀 Live Demo](#video-presentation)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -79,10 +80,10 @@ After you're finished please remove all the comments and instructions!
 <!-- Features -->
 ### Key Features <a name="key-features"></a>
 
-- **allow you to save ingredients**
-- **generate a shopping list**
-- **create recipes**
-- **keep track of what you have**
+- **Navigation buttons for moving between pages**
+- **Generate a Categorized lists**
+- **Ability to add new categories with mandatory name and icon fields**
+- **Ability to add new transactions with mandatory name, amount, and category fields.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,6 +92,13 @@ After you're finished please remove all the comments and instructions!
 Not Available yet!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- VIDEO PRESENTATION -->
+## 🚀 Video Presentation <a name="video-presentaion"></a>
+https://drive.google.com/file/d/1e32LN5nZ4cocm81p9YofM3SgGpRmonKZ/view?usp=sharing
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
