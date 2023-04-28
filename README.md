@@ -199,8 +199,8 @@ If you like this project give a ⭐️ to repo.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to thank the Microverse team.
+- Original design idea by [Gregoire Vella](https://www.behance.net/gregoirevella) on Behance in accordance with the [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/) of the design.
+- I would like to thank the Microverse team.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
